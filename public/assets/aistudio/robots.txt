@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://omnitools.kr/sitemap.xml
+Sitemap: https://ais-pre-ntrbu3oen5g4jimyzelfn7-423911175142.asia-northeast1.run.app/sitemap.xml

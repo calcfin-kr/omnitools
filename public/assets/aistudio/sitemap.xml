@@ -1,7 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- 메인 대시보드 및 도구 모음 홈 -->
   <url>
-    <loc>https://omnitools.kr/</loc>
+    <loc>https://ais-pre-ntrbu3oen5g4jimyzelfn7-423911175142.asia-northeast1.run.app/</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
   </url>
-  <!-- 실제로 존재하는 공개 페이지를 여기에 추가 -->
+
+  <!-- 파일 변환 도구 -->
+  <url>
+    <loc>https://ais-pre-ntrbu3oen5g4jimyzelfn7-423911175142.asia-northeast1.run.app/#csv-json-converter</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-ntrbu3oen5g4jimyzelfn7-423911175142.asia-northeast1.run.app/#base64-studio</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 이미지 편집 & 미디어 도구 -->
+  <url>
+    <loc>https://ais-pre-ntrbu3oen5g4jimyzelfn7-423911175142.asia-northeast1.run.app/#image-resizer</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-ntrbu3oen5g4jimyzelfn7-423911175142.asia-northeast1.run.app/#qr-studio</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-ntrbu3oen5g4jimyzelfn7-423911175142.asia-northeast1.run.app/#color-studio</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 텍스트 변환 & 문서 도구 -->
+  <url>
+    <loc>https://ais-pre-ntrbu3oen5g4jimyzelfn7-423911175142.asia-northeast1.run.app/#text-counter</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-ntrbu3oen5g4jimyzelfn7-423911175142.asia-northeast1.run.app/#case-converter</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-ntrbu3oen5g4jimyzelfn7-423911175142.asia-northeast1.run.app/#diff-checker</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-ntrbu3oen5g4jimyzelfn7-423911175142.asia-northeast1.run.app/#markdown-studio</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-ntrbu3oen5g4jimyzelfn7-423911175142.asia-northeast1.run.app/#text-clean-sort</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 개발자 & 데이터 도구 -->
+  <url>
+    <loc>https://ais-pre-ntrbu3oen5g4jimyzelfn7-423911175142.asia-northeast1.run.app/#json-formatter</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-ntrbu3oen5g4jimyzelfn7-423911175142.asia-northeast1.run.app/#url-parser</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-ntrbu3oen5g4jimyzelfn7-423911175142.asia-northeast1.run.app/#jwt-inspector</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-ntrbu3oen5g4jimyzelfn7-423911175142.asia-northeast1.run.app/#hash-generator</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-ntrbu3oen5g4jimyzelfn7-423911175142.asia-northeast1.run.app/#password-uuid</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 수학 & 계산기 도구 -->
+  <url>
+    <loc>https://ais-pre-ntrbu3oen5g4jimyzelfn7-423911175142.asia-northeast1.run.app/#unit-converter</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-ntrbu3oen5g4jimyzelfn7-423911175142.asia-northeast1.run.app/#date-calculator</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-ntrbu3oen5g4jimyzelfn7-423911175142.asia-northeast1.run.app/#percentage-calc</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-ntrbu3oen5g4jimyzelfn7-423911175142.asia-northeast1.run.app/#timezone-clock</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 생산성 & 생활 도구 -->
+  <url>
+    <loc>https://ais-pre-ntrbu3oen5g4jimyzelfn7-423911175142.asia-northeast1.run.app/#timer-stopwatch</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-ntrbu3oen5g4jimyzelfn7-423911175142.asia-northeast1.run.app/#random-picker</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- AI 스마트 도구 -->
+  <url>
+    <loc>https://ais-pre-ntrbu3oen5g4jimyzelfn7-423911175142.asia-northeast1.run.app/#ai-assistant</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-ntrbu3oen5g4jimyzelfn7-423911175142.asia-northeast1.run.app/#ai-regex</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
